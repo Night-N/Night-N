@@ -32,6 +32,6 @@
 </p>
 
 </br></br></br></br>
-Contact me via Discord: </br>
-[<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> ](https://discordapp.com/users/484067662524317744/)
+### Contact me via Discord:
+[<img align="left" alt="Discord" width="60px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" /> ](https://discordapp.com/users/484067662524317744/)
 

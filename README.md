@@ -1,8 +1,7 @@
-## Hello, World!
 ### About me
 - My name is Vladimir Gorbunov
-- I'm currently learning Linux server administration and DevOps instruments.
-- Feel free to reach out! 
+- I'm learning Linux server administration and DevOps tools.
+- Currently looking for a technical support job or a junior specialist internship. Feel free to reach out! 
 </br></br>
 
 ### My Toolbox

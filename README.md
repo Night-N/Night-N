@@ -8,7 +8,7 @@
 - **Operating Systems:** Linux (Ubuntu, Fedora)
 - **Cloud Platforms:** Yandex Cloud
 - **Configuration Management:** Ansible
-- **Containerization:** Docker, Kubernetes
+- **Containerization:** Docker
 - **Continuous Integration/Deployment:** Jenkins, GitLab CI/CD
 - **Infrastructure as Code:** Terraform, Vagrant
 - **Monitoring and Logging:** Prometheus, Grafana
@@ -16,7 +16,6 @@
 <p align="center">
 <img align="left" alt="Vagrant" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original-wordmark.svg" />
 <img align="left" alt="Ansible" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" />
-<img align="left" alt="Kubernetes" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
 <img align="left" alt="Docker" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />         
 <img align="left" alt="Grafana" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" />
 <img align="left" alt="Prometheus" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" /></p>

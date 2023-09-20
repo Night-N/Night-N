@@ -31,5 +31,5 @@
 
 </br></br></br></br>
 ### Contact me:
-[<img align="left" alt="Discord" width="100px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5061df29d55a92d945_full_logo_blurple_RGB.svg" /> ](https://discordapp.com/users/484067662524317744/)
+[<img align="left" alt="Discord" width="100px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5061df29d55a92d945_full_logo_blurple_RGB.svg" /> ](https://discordapp.com/users/484067662524317744/)  
 [<img align="left" alt="Telegram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png" /> ](https://t.me/NightNR)

@@ -11,7 +11,7 @@
 - **Containerization:** Docker
 - **Continuous Integration/Deployment:** Jenkins, GitLab CI/CD
 - **Infrastructure as Code:** Terraform, Vagrant
-- **Monitoring and Logging:** Prometheus, Grafana
+- **Monitoring and Logging:** Prometheus, Grafana, ELK, Zabbix
 - **Scripting and Automation:** Bash, Python
 <p align="center">
 <img align="left" alt="Vagrant" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original-wordmark.svg" />

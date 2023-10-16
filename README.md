@@ -5,7 +5,7 @@
 </br></br>
 
 ### My Toolbox
-- **Operating Systems:** Linux (Ubuntu, Fedora)
+- **Operating Systems:** Linux (Debian, Ubuntu, Fedora, AlmaLinux)
 - **Cloud Platforms:** Yandex Cloud
 - **Configuration Management:** Ansible
 - **Containerization:** Docker
